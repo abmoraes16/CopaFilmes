@@ -1,0 +1,35 @@
+.banner{
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    text-align: -webkit-center;
+    background-color: gray;
+    color: white;
+}
+
+.banner div {
+    margin-bottom: 10px;
+}
+
+.divisor{
+    width:2vh;
+}
+
+.titulo-principal{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.titulo-secundario{
+    text-transform: uppercase;
+    font-size:12px;
+}
+
+.descricao{
+    width:90vh;
+    font-size:12px;
+    margin:0px;
+    align-self: center;
+    font-weight: 500;
+}

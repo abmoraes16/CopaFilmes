@@ -1,0 +1,23 @@
+.card-checkbox{
+    width: 8%;
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.card-info{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 80%;
+}
+
+.card{
+    width: 20%;
+    display: flex;
+    border: 1px solid;
+    margin-top: 10px;
+    height: 12vh;
+    align-items: center;
+    background-color: white;
+}
